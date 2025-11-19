@@ -1,0 +1,21 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Shiny
+rsconnect/
+
+# Data files (optionnel)
+*.csv
+*.xlsx
+*.rds
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
