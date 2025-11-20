@@ -121,11 +121,3 @@ Creation et mise en production d'une base de donnees SQL/NoSQL.
 
 ### Mission 3 : Creer une WebApp ✅
 Application Shiny interactive pour la visualisation et l'analyse des donnees.
-
-## Auteur
-
-Consultant Data - Aeroports de Paris (ADP)
-
-## Licence
-
-Projet educatif - Donnees publiques du BTS
