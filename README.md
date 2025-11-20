@@ -19,8 +19,8 @@ Source: Bureau of Transportation Statistics (BTS)
 
 ```
 TP_Groupe_R/
-|-- main.r           # Script d'analyse exploratoire (Mission 1)
-|-- app.r            # Application Shiny interactive (Mission 3)
+|-- main.r           # Script d'analyse exploratoire
+|-- app.r            # Application Shiny interactive
 |-- README.md        # Documentation du projet
 |-- .gitignore       # Fichiers a ignorer par Git
 ```
@@ -49,7 +49,7 @@ install.packages(c(
 
 ## Utilisation
 
-### Analyse Exploratoire (Mission 1)
+### Analyse Exploratoire
 
 Pour executer l'analyse complete :
 
@@ -57,7 +57,7 @@ Pour executer l'analyse complete :
 source("main.r")
 ```
 
-Ce script repond aux 8 questions de la Mission 1 :
+Ce script repond aux 8 questions exploratoires :
 1. Statistiques generales (aeroports, compagnies, vols annules)
 2. Aeroports et destinations les plus empruntes
 3. Destinations par compagnie avec graphiques
@@ -67,7 +67,7 @@ Ce script repond aux 8 questions de la Mission 1 :
 7. Destinations exclusives
 8. Filtrage des vols United, American, Delta
 
-### Application Web Shiny (Mission 3)
+### Application Web Shiny
 
 Pour lancer l'application web interactive :
 
@@ -110,14 +110,3 @@ L'application comprend 6 onglets :
 ### 6. Donnees Brutes
 - Acces aux tables completes
 - Export possible
-
-## Missions du Projet
-
-### Mission 1 : Se familiariser avec les donnees ✅
-Analyse exploratoire complete des donnees de vols, aeroports, compagnies et avions.
-
-### Mission 2 : Creer la DB ⏳
-Creation et mise en production d'une base de donnees SQL/NoSQL.
-
-### Mission 3 : Creer une WebApp ✅
-Application Shiny interactive pour la visualisation et l'analyse des donnees.
