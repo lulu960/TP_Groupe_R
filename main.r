@@ -1,5 +1,5 @@
 # ==============================================================================
-# Projet Trafic Aerien - Mission 1 : Se familiariser avec les donnees
+# Projet Trafic Aerien - Se familiariser avec les donnees
 # Consultant Data - Aeroports de Paris (ADP)
 # ==============================================================================
 
@@ -18,7 +18,7 @@ data(airlines)
 data(planes)
 data(weather)
 
-cat("\n========== MISSION 1 : SE FAMILIARISER AVEC LES DONNEES ==========\n\n")
+cat("\n========== SE FAMILIARISER AVEC LES DONNEES ==========\n\n")
 
 # ==============================================================================
 # QUESTION 1 : Combien y-a-t-il de...
@@ -406,4 +406,4 @@ print(vols_ua_aa_dl %>%
         head(10))
 cat("\n")
 
-cat("\n========== FIN DE LA MISSION 1 ==========\n")
+cat("\n========== FIN DE L'EXPLORATION DES DONEES ==========\n")
