@@ -1,6 +1,6 @@
 # ==============================================================================
 # Application Shiny - Analyse du Trafic Aerien NYC
-# Aeroports de Paris (ADP) - Mission 3
+# Aeroports de Paris (ADP)
 # ==============================================================================
 
 library(shiny)
